@@ -9,7 +9,7 @@ Each case-study folder contains the following files
 - MD files which contains SQL queries answering the respective challenge questions
 
 **Note**: 
-- Solutions are coded in **MySQL**
+- Solutions are coded in **Postgres Database**
 
 ## Challenge case studies
 * 🍜[Case Study #1 - Danny's Diner](https://github.com/manaswikamila05/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%201%20-%20Danny's%20Diner)
